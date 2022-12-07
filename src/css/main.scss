@@ -77,12 +77,13 @@ html, body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 180px 0px;
+    padding: 180px 20px;
 
     p {
         text-align: left;
         margin-bottom: 0;
         font-size: 18px;
+        line-height: 1.5;
     }
 }
 
@@ -92,4 +93,22 @@ html, body {
 
 .full {
     width: 100vw;
+}
+
+
+// Mobile
+
+@media screen and (max-width: 560px) {
+
+.nav-bar {
+    justify-content: center;
+}
+
+.hero-content {
+    height: 60vh;
+    p {
+        font-size: 55px;
+    }
+}
+
 }
