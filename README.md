@@ -3,5 +3,6 @@
 wellness aspirations.
 
 
-#### TO LEARN MORE
-See [INDOVILLAS-CR.COM](https://indovillas-cr.com).
+
+
+To learn more, visit: [INDOVILLAS-CR.COM](https://indovillas-cr.com).
