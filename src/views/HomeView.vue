@@ -24,7 +24,7 @@
       <div class="flex-box">
         <div class="left-box">
          <div class="left-text">
-            <p>AVELLANAS</p>
+            <h5>AVELLANAS</h5>
             <h3>Exceptional Location.<br><span>Unrivaled Lifestle.</span></h3>
           </div>
         </div>  
@@ -34,8 +34,9 @@
         <div class="left-image"></div>
         <div class="right-box">
          <div class="right-text">
-            <p>AVELLANAS</p>
-            <h3>Exceptional Location.<br><span>Unrivaled Lifestle.</span></h3>
+            <h5>AVELLANAS</h5>
+            <h3>A place like no other.<br><span></span></h3>
+            <p>Avellanas and its neighboring towns are home to 6 miles of Costa Rica's Gold Coast. Beautiful beaches and world class waves can be found within walking distance from your property.</p>
           </div>
         </div>  
       </div>
