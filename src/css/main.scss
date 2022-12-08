@@ -219,8 +219,16 @@ html, body {
     font-size: 30px;
   }
   a {
+    text-decoration: none;
     font-weight: 700;
-    color: #829191;
+    color: #2B9EB3;
+    padding: 10px 25px;
+    border: 2px solid #2B9EB3;
+    border-radius: 25px;
+  }
+  a:hover {
+    background-color: #2B9EB3;
+    color: #fff;
   }
 }
 
