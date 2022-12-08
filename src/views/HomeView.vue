@@ -36,7 +36,8 @@
          <div class="right-text">
             <h5>AVELLANAS</h5>
             <h3>A place like no other.<br><span></span></h3>
-            <p>Avellanas and its neighboring towns are home to 6 miles of Costa Rica's Gold Coast. Beautiful beaches and world class waves can be found within walking distance from your property.</p>
+            <p>Avellanas and its neighboring towns are home to 6 miles of Costa Rica's Gold Coast. 
+              Beautiful white-sand beaches and world class waves can be found within walking distance from your property.</p>
           </div>
         </div>  
       </div>

@@ -220,10 +220,10 @@ html, body {
   }
   a {
     text-decoration: none;
-    font-weight: 700;
+    font-weight: 400;
     color: #2B9EB3;
     padding: 10px 25px;
-    border: 2px solid #2B9EB3;
+    border: 1px solid #2B9EB3;
     border-radius: 25px;
   }
   a:hover {
@@ -297,6 +297,13 @@ html, body {
   padding: 30px;
   h3 {
     font-size: 45px;
+  }
+}
+
+.contact {
+  a {
+    border: 1px solid #2B9EB3;
+    font-weight: 400;
   }
 }
 
