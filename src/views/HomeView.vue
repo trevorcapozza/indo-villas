@@ -4,7 +4,14 @@
         <p>Coming Soon</p>
         <img class="gps" src="../assets/gps.svg" alt="">
       </div>
-      <div class="avellanas full">
+      <div class="text-row full white">
+        <h3>The Project</h3>
+        <p class="max">Indo Villas is a luxury development project located in Avellanas with a collection of one 
+          and two bedroom villas just steps from the ocean. The objective of Indo Villas is to fulfill a 
+          thriving market segment with a residential oasis that satisfies customers' lifestyle, travel, and 
+          wellness aspirations.</p>
+      </div>
+      <div class="text-row full color">
         <h3>Why Avellanas?</h3>
         <p class="max">Avellanas and its neighboring towns are humming with higher net-worth ecotourism 
           that is commanding luxury accommodations, inspiring food & beverage venues, immediate 

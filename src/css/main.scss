@@ -30,7 +30,6 @@ html, body {
     -khtml-user-drag: none;
     -moz-user-drag: none;
     -o-user-drag: none;
-    user-drag: none;
   }
 
   .logo {
@@ -71,7 +70,7 @@ html, body {
 
     p {
         background-color: #2C423F;
-        padding: 5px;
+        padding: 5px 10px;
         margin-top: 10px;
         margin-bottom: 15px;
         font-family: 'EB Garamond', serif;
@@ -81,13 +80,12 @@ html, body {
     }
 }
 
-.avellanas {
-    background-color: #fff;
+.text-row {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 180px 20px;
+    padding: 150px 20px;
 
     p {
         text-align: left;
@@ -97,6 +95,14 @@ html, body {
     }
 }
 
+.white {
+    background-color: #fff;
+}
+
+.color {
+    background-color: #F5F5F5;
+}
+
 .max {
     max-width: 1000px;
 }
@@ -104,6 +110,20 @@ html, body {
 .full {
     width: 100vw;
 }
+
+// Footer //
+
+.footer {
+    margin-top: 0px;
+    width: 100%;
+    padding: 15px;
+    p {
+      font-size: 12px;
+      font-weight: 300;
+      color: #fff;
+      letter-spacing: 1px;
+    }
+  }
 
 
 // Mobile
@@ -121,8 +141,8 @@ html, body {
     }
 }
 
-.avellanas {
-    padding: 120px 20px;
+.text-row {
+    padding: 100px 20px;
 }
 
 }
