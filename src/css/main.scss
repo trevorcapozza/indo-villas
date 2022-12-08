@@ -154,9 +154,9 @@ html, body {
   margin-left: 0px;
   max-width: 800px;
   p {
-    margin-left: 5px;
+    margin-left: 8px;
     font-weight: 900;
-    color: #0B6E4F;
+    color: #CCCCCC;
     margin-bottom: 50px;
   }
   h3 {
@@ -166,7 +166,7 @@ html, body {
   }
   span {
     font-style: italic;
-    color: #2C423F;
+    color: #2B9EB3;
   }
 }
 
@@ -176,7 +176,7 @@ html, body {
     margin-top: 0px;
     background-color: #2C423F;
     width: 100%;
-    padding: 15px;
+    padding: 10px;
     p {
       font-size: 12px;
       font-weight: 300;
@@ -190,6 +190,12 @@ html, body {
   .flex-box {
     flex-direction: column;
     height: 100vh;
+  }
+
+  .hero-content {
+    img {
+      background-color: #000;
+    }
   }
 
 }
