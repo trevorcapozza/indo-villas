@@ -1,7 +1,8 @@
 <template>
   <div class="container">
-      <div class="hero-content max">
+      <div class="hero-content">
         <p>Coming Soon</p>
+        <img class="gps" src="../assets/gps.svg" alt="">
       </div>
       <div class="avellanas full">
         <h3>Why Avellanas?</h3>
