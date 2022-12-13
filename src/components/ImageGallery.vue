@@ -55,26 +55,35 @@ export default {
     },
     methods: {
         scrollImagesToEnd() {
-            // Select the image container
-            const imageContainer = document.querySelector('.container-8');
-
-            // Scroll the images to the right by the width of the container
-            imageContainer.scroll({
-                left: imageContainer.scrollWidth,
-                behavior: 'smooth'
-            });
+          // Select the image container
+          const imageContainer = document.querySelector('.container-8');
+                
+          // Get the width of the viewport
+          const viewportWidth = window.innerWidth;
+                
+          // Scroll the images to the right by the width of the viewport
+          imageContainer.scrollBy({
+            left: viewportWidth,
+            behavior: 'smooth'
+          });
         },
         scrollImagesToStart() {
-            // Select the image container
-            const imageContainer = document.querySelector('.container-8');
+          // Select the image container
+          const imageContainer = document.querySelector('.container-8');
+        
+          // Get the width of the viewport
+          const viewportWidth = window.innerWidth;
+        
+          // Scroll the images to the left by the width of the viewport
+          imageContainer.scrollBy({
+            left: -viewportWidth,
+            behavior: 'smooth'
+          });
+        }     
+}
 
-            // Scroll the images to the left by the width of the container
-            imageContainer.scroll({
-                left: 0,
-                behavior: 'smooth'
-            });
-        }
-    }
+
+
 }
 
 </script>
