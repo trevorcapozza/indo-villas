@@ -15,7 +15,7 @@
             </div>
             <div class="image-container">
                 <img src="../assets/image-gallery/lifestyle-2.jpg" alt="caption2" />
-                <h6>Surf @ Witches</h6>
+                <h6>Surf @ Ollie's Point</h6>
                 <p>Take a day trip from your villa and surf one of the world's most famous waves.</p>
             </div>
             <div class="image-container">
