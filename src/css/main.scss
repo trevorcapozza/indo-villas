@@ -60,6 +60,7 @@ html, body {
     background-size: cover;
     width: 100%;
     height: 90vh;
+    max-height: 800px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -187,6 +188,7 @@ html, body {
   align-items: center;
   justify-content: center;
   flex: 1;
+  background-color: #F5F5F5;
 }
 
 .right-text {
@@ -232,6 +234,79 @@ html, body {
   }
 }
 
+
+// Lifestyle //
+
+.container-8 {
+  left: 0px;
+  display: flex;
+  justify-content: flex-start;
+  overflow-x: scroll;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.container-8::-webkit-scrollbar {
+display: none;
+}
+
+.image-container {
+  padding: 30px;
+  display: flex;
+  text-align: left;
+  flex-direction: column;
+  min-width: 25.75vw;
+
+  h6 {
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-size: 1.125rem;
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+  }
+  p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: .975rem;
+  }
+}
+
+img {
+  width: 100%;
+}
+
+.lifestyle {
+  width: 100%;
+  margin: 90px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 40px 40px 40px;
+
+  h3 {
+    margin: 0px;
+  }
+}
+
+.buttons {
+  display: flex;
+
+  i {
+    font-size: 1.25rem;
+    padding-top: 10px;
+    color: gray;
+  } 
+  .right {
+    padding-left: 15px;
+  }
+}
+
 // Footer //
 
 .footer {
@@ -263,6 +338,16 @@ html, body {
       background-color: #000;
     }
   }
+
+}
+
+// Resizing Lifestyle Gallery
+
+@media screen and (max-width: 860px) {
+
+.image-container {
+  min-width: 40vw;
+}
 
 }
 
@@ -305,6 +390,10 @@ html, body {
     border: 1px solid #2B9EB3;
     font-weight: 400;
   }
+}
+
+.image-container {
+  min-width: 90vw;
 }
 
 }
