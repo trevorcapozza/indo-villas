@@ -10,37 +10,37 @@
         <div class="container-8">
             <div class="image-container">
                 <img src="../assets/image-gallery/lifestyle-7.jpg" alt="caption1" />
-                <h6>Playa Junquillal</h6>
+                <h6>Secluded Volcanic Beaches</h6>
                 <!-- <p>Avellanas is home to some of the most beautiful beaches.</p> -->
             </div>
             <div class="image-container">
                 <img src="../assets/image-gallery/lifestyle-2.jpg" alt="caption2" />
-                <h6>Surf @ Ollie's Point</h6>
+                <h6>Tradewinds at Local Reefs</h6>
                 <!-- <p>Take a day trip from your villa and surf one of the world's most famous waves.</p> -->
             </div>
             <div class="image-container">
                 <img src="../assets/image-gallery/lifestyle-6.jpg" alt="caption3" />
-                <h6>Exceptional Food</h6>
+                <h6>Authentic Wholesome Cuisine</h6>
                <!-- <p>Wake up and enjoy a lovely breakfast just down the road at Cafe Corazon.</p> -->
             </div>
             <div class="image-container">
                 <img src="../assets/image-gallery/lifestyle-3.jpg" alt="caption4" />
-                <h6>Hike to Waterfalls</h6>
+                <h6>Layday Exploration</h6>
                <!-- <p>Spend a day hiking through the mountains to some of the most peaceful waterfalls.</p> -->
             </div>
             <div class="image-container">
                 <img src="../assets/image-gallery/lifestyle-4.jpg" alt="caption5" />
-                <h6>Beach Day</h6>
+                <h6>Find Your Peak</h6>
                <!-- <p>Spend a day relaxing on the beach with your friends.</p> -->
             </div>
             <div class="image-container">
                 <img src="../assets/image-gallery/lifestyle-1.jpg" alt="caption6" />
-                <h6>Adventure</h6>
+                <h6>Rejuvenate</h6>
                <!-- <p>Take an adventure through the rain forest and cool down in a natural pool.</p> -->
             </div>
             <div class="image-container">
                 <img src="../assets/image-gallery/lifestyle-5.jpg" alt="caption6" />
-                <h6>Perfect Waves</h6>
+                <h6>Sand Bars Out Front</h6>
                <!-- <p>Walk right out your doorstep to a handful of perfect waves.</p> -->
             </div>
       </div>

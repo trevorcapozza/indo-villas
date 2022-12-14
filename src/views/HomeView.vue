@@ -5,27 +5,25 @@
         <img class="gps" src="../assets/gps.svg" alt="">
       </div>
       <div class="text-row full white">
-        <h3>The Project</h3>
+        <h3>The Vision</h3>
         <!-- <div class="line"></div> -->
-        <p class="max">Indo Villas is a luxury development project located in Avellanas with a collection of one 
-          and two bedroom villas just steps from the ocean. The objective of Indo Villas is to fulfill a 
-          thriving market segment with a residential oasis that satisfies customers' lifestyle, travel, and 
-          wellness aspirations.</p>
+        <p class="max">Indo Villas is a luxury residential enclave located in Avellanas with a collection of one and two-bedroom villas just steps from the Pacific Ocean. 
+          The objective of Indo Villas is to create an intimate community that fulfills the lifestyle, travel, and wellness aspirations of the clientele spending more 
+          time in this special region of Costa Rica. </p>
       </div>
       <div class="text-row full color">
         <h3>Why Avellanas?</h3>
-        <p class="max">Avellanas and its neighboring towns are humming with higher net-worth ecotourism 
-          that is commanding luxury accommodations, inspiring food & beverage venues, immediate 
-          access to world-class waves, and attractive amenities emphasizing wellness as well as sustainability. 
-          Today, there are insufficient options that match what the growing market is seeking in this region. 
-          Additionally, the local municipality has approved to pave the final section of roads connecting all 
-          of the premier beach communities.</p>
+        <p class="max">Avellanas and its neighboring communities are buzzing with international, as well as local, ecotourism that is commanding luxury accommodations, 
+          inspiring food & beverage venues, immediate access to world-class waves, and attractive amenities emphasizing wellness as well as sustainability. 
+          The team at Indo Villas has recognized that there are insufficient options that match what the thriving ecotourism market is seeking in this 
+          region and will fill that demand gap. Lastly, the timing is idyllic as the municipality has begun to pave the final section of roads which connects all of 
+          the premier beach communities and grants streamlined accessibility as well as infrastructure enhancements.</p>
       </div>
       <div class="flex-box">
         <div class="left-box">
          <div class="left-text">
             <h5>AVELLANAS</h5>
-            <h3>Exceptional Location.<br><span>Unrivaled Lifestle.</span></h3>
+            <h3>Exceptional Location.<br><span>Unrivaled Lifestyle.</span></h3>
           </div>
         </div>  
         <div class="right-image"></div>
@@ -34,9 +32,11 @@
         <div class="left-image"></div>
         <div class="right-box">
          <div class="right-text">
-            <h3>A place like no other.<br><span></span></h3>
-            <p>Avellanas and its neighboring towns are home to 6 miles of Costa Rica's Gold Coast. 
-              Beautiful white-sand beaches and world class waves can be found within walking distance from your property.</p>
+            <h3>The Location<br><span></span></h3>
+            <p>At Indo Villas, the location is the ethos of the new enclave. You, your guests, and your future renters are a 2-minute walk to some of Costa Rica's 
+              most stunning white sand beaches as well as a world-class beach break with year-round waves. These homes will offer carefree access to half a dozen 
+              of Costa Rica's best surf spots including Playa Negra, Little Hawaii, El Estero, Junquillal, and many more. In short, this stretch of coastline can be 
+              considered Costa Rica's 7-Mile Miracle, and Indo Villas are positioned directly in the heart of it.</p>
           </div>
         </div>  
       </div>
