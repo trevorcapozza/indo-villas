@@ -29,6 +29,11 @@
                <!-- <p>Spend a day hiking through the mountains to some of the most peaceful waterfalls.</p> -->
             </div>
             <div class="image-container">
+                <img src="../assets/image-gallery/hanna.jpg" alt="caption5" />
+                <h6>Rejuvenation</h6>
+               <!-- <p>Spend a day relaxing on the beach with your friends.</p> -->
+            </div>
+            <div class="image-container">
                 <img src="../assets/image-gallery/lifestyle-4.jpg" alt="caption5" />
                 <h6>Find Your Peak</h6>
                <!-- <p>Spend a day relaxing on the beach with your friends.</p> -->
@@ -38,11 +43,11 @@
                 <h6>Morning Ritual</h6>
                <!-- <p>Take an adventure through the rain forest and cool down in a natural pool.</p> -->
             </div>
-            <div class="image-container">
+            <!-- <div class="image-container">
                 <img src="../assets/image-gallery/lifestyle-5.jpg" alt="caption6" />
                 <h6>Sand Bars Out Front</h6>
-               <!-- <p>Walk right out your doorstep to a handful of perfect waves.</p> -->
-            </div>
+                <p>Walk right out your doorstep to a handful of perfect waves.</p>
+            </div> -->
       </div>
     </div>
   </template>
