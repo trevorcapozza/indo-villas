@@ -19,8 +19,8 @@
                 <!-- <p>Take a day trip from your villa and surf one of the world's most famous waves.</p> -->
             </div>
             <div class="image-container">
-                <img src="../assets/image-gallery/lifestyle-6.jpg" alt="caption3" />
-                <h6>Authentic Wholesome Cuisine</h6>
+                <img src="../assets/image-gallery/avocado-toast.jpg" alt="caption3" />
+                <h6>Breakfast at the Beach</h6>
                <!-- <p>Wake up and enjoy a lovely breakfast just down the road at Cafe Corazon.</p> -->
             </div>
             <div class="image-container">
@@ -34,8 +34,8 @@
                <!-- <p>Spend a day relaxing on the beach with your friends.</p> -->
             </div>
             <div class="image-container">
-                <img src="../assets/image-gallery/lifestyle-1.jpg" alt="caption6" />
-                <h6>Rejuvenate</h6>
+                <img src="../assets/image-gallery/coffee.jpg" alt="caption6" />
+                <h6>Morning Ritual</h6>
                <!-- <p>Take an adventure through the rain forest and cool down in a natural pool.</p> -->
             </div>
             <div class="image-container">
