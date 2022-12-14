@@ -40,7 +40,7 @@
           </div>
         </div>  
       </div>
-      <ImageGallery />
+      <LifestyleGallery />
       <div class="text-row full color contact">
         <h3>Questions about current ownership opportunities? </h3>
         <a href="mailto:trevor.capozza@gmail.com">GET IN TOUCH</a>
@@ -52,12 +52,12 @@
 </template>
 
 <script>
-import ImageGallery from '../components/ImageGallery.vue'
+import LifestyleGallery from '../components/LifestyleGallery.vue'
 
 export default {
   name: 'HomeView',
   components: {
-    ImageGallery,
+    LifestyleGallery,
   }
 }
 </script>
