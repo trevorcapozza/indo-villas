@@ -4,14 +4,14 @@
         <p>Coming Soon</p>
         <img class="gps" src="../assets/gps.svg" alt="">
       </div>
-      <div class="text-row full white">
+      <div class="text-row full color">
         <h3>The Vision</h3>
         <!-- <div class="line"></div> -->
         <p class="max">Indo Villas is a luxury residential enclave located in Avellanas with a collection of one and two-bedroom villas just steps from the Pacific Ocean. 
           The objective of Indo Villas is to create an intimate community that fulfills the lifestyle, travel, and wellness aspirations of the clientele spending more 
           time in this special region of Costa Rica. </p>
       </div>
-      <div class="text-row full color">
+      <div class="text-row full white">
         <h3>Why Avellanas?</h3>
         <p class="max">Avellanas and its neighboring communities are buzzing with international, as well as local, ecotourism that is commanding luxury accommodations, 
           inspiring food & beverage venues, immediate access to world-class waves, and attractive amenities emphasizing wellness as well as sustainability. 
@@ -19,6 +19,7 @@
           region and will fill that demand gap. Lastly, the timing is idyllic as the municipality has begun to pave the final section of roads which connects all of 
           the premier beach communities and grants streamlined accessibility as well as infrastructure enhancements.</p>
       </div>
+      <VillaGallery />
       <div class="flex-box">
         <div class="left-box">
          <div class="left-text">
@@ -53,11 +54,13 @@
 
 <script>
 import LifestyleGallery from '../components/LifestyleGallery.vue'
+import VillaGallery from '../components/VillaGallery.vue'
 
 export default {
   name: 'HomeView',
   components: {
     LifestyleGallery,
+    VillaGallery,
   }
 }
 </script>
