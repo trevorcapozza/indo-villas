@@ -55,7 +55,7 @@ html, body {
 
 .hero-content {
     margin-top: 0px;
-    background-image: url(../assets/garton-2.jpg);
+    background-image: url(../assets/villa-blur.jpg);
     background-color: #F5F5F5;
     background-size: cover;
     width: 100%;
@@ -362,6 +362,7 @@ img {
 
 .hero-content {
     height: 80vh;
+    background-position: center;
     p {
         font-size: 55px;
     }
