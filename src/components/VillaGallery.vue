@@ -3,8 +3,8 @@
         <div class="title">
             <h3>The Villas</h3>
             <div class="buttons">
-                <i class="fa-regular fa-chevron-left left" @click="scrollImagesToStart"></i>
-                <i class="fa-regular fa-chevron-right right" @click="scrollImagesToEnd"></i>
+                <i class="fa-regular fa-chevron-left left" @click="scrollVillasToStart"></i>
+                <i class="fa-regular fa-chevron-right right" @click="scrollVillasToEnd"></i>
             </div>
         </div>
         <div class="container-8">
@@ -44,7 +44,7 @@ export default {
 
     },
     methods: {
-        scrollImagesToEnd() {
+        scrollVillasToEnd() {
           // Select the image container
           const imageContainer = document.querySelector('.container-8');
                 
@@ -57,7 +57,7 @@ export default {
             behavior: 'smooth'
           });
         },
-        scrollImagesToStart() {
+        scrollVillasToStart() {
           // Select the image container
           const imageContainer = document.querySelector('.container-8');
         
