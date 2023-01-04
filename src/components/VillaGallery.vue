@@ -3,11 +3,11 @@
         <div class="title">
             <h3>The Villas</h3>
             <div class="buttons">
-                <i class="fa-regular fa-chevron-left left" @click="scrollVillasToStart"></i>
-                <i class="fa-regular fa-chevron-right right" @click="scrollVillasToEnd"></i>
+                <i class="fa-regular fa-chevron-left left" @click="scrollImagesToStart"></i>
+                <i class="fa-regular fa-chevron-right right" @click="scrollImagesToEnd"></i>
             </div>
         </div>
-        <div class="container-8">
+        <div class="container-7">
             <div class="image-container">
                 <img src="../assets/villa-gallery/bathroom.jpg" alt="caption1" />
                 <!-- <h6>Secluded Volcanic Beaches</h6>
@@ -44,9 +44,9 @@ export default {
 
     },
     methods: {
-        scrollVillasToEnd() {
+        scrollImagesToEnd() {
           // Select the image container
-          const imageContainer = document.querySelector('.container-8');
+          const imageContainer = document.querySelector('.container-7');
                 
           // Get the width of the viewport
           const viewportWidth = window.innerWidth;
@@ -57,9 +57,9 @@ export default {
             behavior: 'smooth'
           });
         },
-        scrollVillasToStart() {
+        scrollImagesToStart() {
           // Select the image container
-          const imageContainer = document.querySelector('.container-8');
+          const imageContainer = document.querySelector('.container-7');
         
           // Get the width of the viewport
           const viewportWidth = window.innerWidth;

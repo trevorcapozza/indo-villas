@@ -246,9 +246,22 @@ html, body {
   scrollbar-width: none;  /* Firefox */
 }
 
+.container-7 {
+  left: 0px;
+  display: flex;
+  justify-content: flex-start;
+  overflow-x: scroll;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
 .container-8::-webkit-scrollbar {
 display: none;
 }
+
+.container-7::-webkit-scrollbar {
+  display: none;
+  }
 
 .image-container {
   padding: 30px;
