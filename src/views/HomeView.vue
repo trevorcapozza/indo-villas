@@ -46,7 +46,7 @@
       </div>
       <LifestyleGallery />
       <div class="text-row full color contact">
-        <h3>Questions about current ownership opportunities? </h3>
+        <h3>Learn More About The Community</h3>
         <a href="mailto:trevor.capozza@gmail.com">GET IN TOUCH</a>
       </div>
    <!-- <div class="schematic max">
