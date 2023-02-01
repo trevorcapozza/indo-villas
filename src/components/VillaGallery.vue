@@ -1,5 +1,5 @@
 <template>
-    <div class="lifestyle color">
+    <div class="lifestyle color" id="villas">
         <div class="title">
             <h3>The Villas</h3>
             <div class="buttons">

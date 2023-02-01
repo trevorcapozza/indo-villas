@@ -45,7 +45,7 @@
         </div>  
       </div>
       <LifestyleGallery />
-      <div class="text-row full color contact">
+      <div class="text-row full color contact" id="contact">
         <h3>Learn More About The Community</h3>
         <a href="mailto:trevor.capozza@gmail.com">GET IN TOUCH</a>
       </div>

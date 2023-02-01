@@ -1,5 +1,5 @@
 <template>
-    <div class="lifestyle">
+    <div class="lifestyle white">
         <div class="title">
             <h3>Lifestyle</h3>
             <div class="buttons">
@@ -18,7 +18,7 @@
                 <!-- <p>Avellanas is home to some of the most beautiful beaches.</p> -->
             </div>
             <div class="image-container">
-                <img src="../assets/image-gallery/barrell-1.jpg" alt="caption2" />
+                <img src="../assets/image-gallery/barrell-2.jpg" alt="caption2" />
                 <h6>Tradewinds at Local Reefs</h6>
                 <!-- <p>Take a day trip from your villa and surf one of the world's most famous waves.</p> -->
             </div>

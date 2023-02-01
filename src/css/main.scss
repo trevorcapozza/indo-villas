@@ -7,7 +7,8 @@
 html, body {
     margin: 0;
     padding: 0;
-    background-color: #fff;
+    background-color: #2C423F;
+    scroll-behavior: smooth;
   }
 
 .container {
@@ -38,12 +39,26 @@ html, body {
 
   .nav-bar {
     position: relative;
+    background-color: #2C423F;
     top: 0px;
     width: 100%;
     max-width: 1400px;
     display: flex;
-    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
     padding: 20px;
+
+    a {
+      margin: 0;
+      color: #fff;
+      padding-left: 30px;
+      text-decoration: none;
+    }
+  }
+
+  .links {
+    display: flex;
+    flex-direction: row;
   }
 
   h3 {
@@ -87,7 +102,7 @@ html, body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 120px 30px;
+    padding: 80px 30px;
 
     p {
         text-align: left;
@@ -98,6 +113,7 @@ html, body {
     }
     h3 {
       margin-top: 0px;
+      margin-bottom: 30px;
     }
 }
 
@@ -258,6 +274,7 @@ html, body {
 .split-peak {
   margin-top: 0;
   margin-bottom: 0;
+  background-color: #fff;
 }
 
 .container-8::-webkit-scrollbar {
@@ -403,6 +420,10 @@ img {
     justify-content: center;
 }
 
+.links {
+  display: none;
+}
+
 .hero-content {
     height: 80vh;
     background-position: center;
@@ -412,7 +433,7 @@ img {
 }
 
 .text-row {
-    padding: 100px 20px;
+    padding: 80px 20px;
 }
 
 .left-text {
