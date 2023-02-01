@@ -8,13 +8,17 @@
             </div>
         </div>
         <div class="container-8">
+          <div class="image-container">
+                <img src="../assets/image-gallery/the-view.jpg" alt="caption1" />
+                <h6>The View</h6>
+            </div>
             <div class="image-container">
                 <img src="../assets/image-gallery/lifestyle-7.jpg" alt="caption1" />
                 <h6>Secluded Volcanic Beaches</h6>
                 <!-- <p>Avellanas is home to some of the most beautiful beaches.</p> -->
             </div>
             <div class="image-container">
-                <img src="../assets/image-gallery/lifestyle-2.jpg" alt="caption2" />
+                <img src="../assets/image-gallery/barrell-1.jpg" alt="caption2" />
                 <h6>Tradewinds at Local Reefs</h6>
                 <!-- <p>Take a day trip from your villa and surf one of the world's most famous waves.</p> -->
             </div>
@@ -28,20 +32,25 @@
                 <h6>Layday Exploration</h6>
                <!-- <p>Spend a day hiking through the mountains to some of the most peaceful waterfalls.</p> -->
             </div>
-            <div class="image-container">
+            <!--<div class="image-container">
                 <img src="../assets/image-gallery/hanna.jpg" alt="caption5" />
                 <h6>Rejuvenation</h6>
-               <!-- <p>Spend a day relaxing on the beach with your friends.</p> -->
-            </div>
-            <div class="image-container">
+                <p>Spend a day relaxing on the beach with your friends.</p>
+            </div> -->
+            <!--<div class="image-container">
                 <img src="../assets/image-gallery/lifestyle-4.jpg" alt="caption5" />
                 <h6>Find Your Peak</h6>
-               <!-- <p>Spend a day relaxing on the beach with your friends.</p> -->
-            </div>
+                <p>Spend a day relaxing on the beach with your friends.</p>
+            </div> -->
             <div class="image-container">
-                <img src="../assets/image-gallery/coffee.jpg" alt="caption6" />
+                <img src="../assets/image-gallery/coffee-3.jpg" alt="caption6" />
                 <h6>Morning Ritual</h6>
                <!-- <p>Take an adventure through the rain forest and cool down in a natural pool.</p> -->
+            </div>
+            <div class="image-container">
+                <img src="../assets/image-gallery/explore.jpg" alt="caption1" />
+                <h6>The Search</h6>
+                <!-- <p>Avellanas is home to some of the most beautiful beaches.</p> -->
             </div>
             <!-- <div class="image-container">
                 <img src="../assets/image-gallery/lifestyle-5.jpg" alt="caption6" />

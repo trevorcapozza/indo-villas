@@ -1,7 +1,7 @@
 <template>
     <div class="container">
       <div class="nav-bar">
-        <img class="logo" alt="INDO logo" src="./assets/logo-horizontal.svg">
+        <img class="logo" alt="INDO logo" src="./assets/logo-horizontal-dark.svg">
       </div>  
     </div>
   <!--- <nav>

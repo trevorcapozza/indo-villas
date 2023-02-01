@@ -1,8 +1,8 @@
 <template>
   <div class="container">
       <div class="hero-content">
-        <p>Coming Soon</p>
-        <img class="gps" src="../assets/gps.svg" alt="">
+        <!--<p>Coming Soon</p>
+        <img class="gps" src="../assets/gps.svg" alt=""> -->
       </div>
       <div class="text-row full color">
         <h3>The Vision</h3>
@@ -10,6 +10,9 @@
         <p class="max">Indo Villas is a luxury residential enclave located in Avellanas with a collection of one and two-bedroom villas just steps from the Pacific Ocean. 
           The objective of Indo Villas is to create an intimate community that fulfills the lifestyle, travel, and wellness aspirations of the clientele spending more 
           time in this special region of Costa Rica. </p>
+      </div>
+      <div class="split-peak">
+        <img src="../assets/split-peak-1.jpg" alt="">
       </div>
       <div class="text-row full white">
         <h3>Why Avellanas?</h3>

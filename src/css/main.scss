@@ -37,7 +37,7 @@ html, body {
   }
 
   .nav-bar {
-    position: absolute;
+    position: relative;
     top: 0px;
     width: 100%;
     max-width: 1400px;
@@ -55,7 +55,7 @@ html, body {
 
 .hero-content {
     margin-top: 0px;
-    background-image: url(../assets/villa-blur-1.jpg);
+    background-image: url(../assets/main-shot.jpg);
     background-color: #F5F5F5;
     background-size: cover;
     width: 100%;
@@ -255,6 +255,11 @@ html, body {
   scrollbar-width: none;  /* Firefox */
 }
 
+.split-peak {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .container-8::-webkit-scrollbar {
 display: none;
 }
@@ -262,6 +267,27 @@ display: none;
 .container-7::-webkit-scrollbar {
   display: none;
   }
+
+.villa-container {
+  padding: 30px;
+  display: flex;
+  text-align: left;
+  flex-direction: column;
+  min-width: 40vw;
+
+  h6 {
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-size: 1.125rem;
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+  }
+  p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: .975rem;
+  }
+}
 
 .image-container {
   padding: 30px;
@@ -362,6 +388,10 @@ img {
   min-width: 40vw;
 }
 
+.villa-container {
+  min-width: 40vw;
+}
+
 }
 
 
@@ -407,6 +437,10 @@ img {
 }
 
 .image-container {
+  min-width: 90vw;
+}
+
+.villa-container {
   min-width: 90vw;
 }
 
