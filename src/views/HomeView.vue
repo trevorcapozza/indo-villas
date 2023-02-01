@@ -14,6 +14,9 @@
       <div class="split-peak">
         <img src="../assets/split-peak-1.jpg" alt="">
       </div>
+      <div class="split-mobile">
+        <img src="../assets/split-peak-2.jpg" alt="">
+      </div>
       <div class="text-row full white">
         <h3>Why Avellanas?</h3>
         <p class="max">Avellanas and its neighboring communities are buzzing with international, as well as local, ecotourism that is commanding luxury accommodations, 
