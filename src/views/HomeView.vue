@@ -15,7 +15,7 @@
         <img src="../assets/split-peak-1.jpg" alt="">
       </div>
       <div class="split-mobile">
-        <img src="../assets/split-peak-2.jpg" alt="">
+        <img src="../assets/split-peak-3.jpg" alt="">
       </div>
       <div class="text-row full white">
         <h3>Why Avellanas?</h3>
@@ -49,7 +49,7 @@
       </div>
       <LifestyleGallery />
       <div class="text-row full color contact" id="contact">
-        <h3>Learn More About The Community</h3>
+        <h3>Learn more about the community.</h3>
         <a href="mailto:trevor.capozza@gmail.com">GET IN TOUCH</a>
       </div>
    <!-- <div class="schematic max">
