@@ -22,7 +22,7 @@
         <p class="max">Avellanas and its neighboring communities are buzzing with international, as well as local, ecotourism that is commanding luxury accommodations, 
           inspiring food & beverage venues, immediate access to world-class waves, and attractive amenities emphasizing wellness as well as sustainability. 
           The team at Indo Villas has recognized that there are insufficient options that match what the thriving ecotourism market is seeking in this 
-          region and will fill that demand gap. Lastly, the timing is idyllic as the municipality has begun to pave the final section of roads which connects all of 
+          region and will fill that demand gap. Lastly, the timing is ideal as the municipality has begun to pave the final section of roads which connects all of 
           the premier beach communities and grants streamlined accessibility as well as infrastructure enhancements.</p>
       </div>
       <VillaGallery />
