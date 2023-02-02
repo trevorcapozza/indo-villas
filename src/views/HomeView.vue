@@ -43,7 +43,7 @@
             <p>At Indo Villas, the location is the ethos of the new enclave. You, your guests, and your future renters are a 2-minute walk to some of Costa Rica's 
               most stunning white sand beaches as well as a world-class beach break with year-round waves. These homes will offer carefree access to half a dozen 
               of Costa Rica's best surf spots including Playa Negra, Little Hawaii, El Estero, Junquillal, and many more. In short, this stretch of coastline can be 
-              considered Costa Rica's 7-Mile Miracle, and Indo Villas are positioned directly in the heart of it.</p>
+              considered Costa Rica's 7-Mile Miracle, and Indo Villas is positioned directly in the heart of it.</p>
           </div>
         </div>  
       </div>
